@@ -1,6 +1,6 @@
-# Responsive-WebApp-How-to-make-my-page-responsive-table-scroll-viewport-
+# How-to-make-my-page-responsive-table-scroll-viewport-
 
-
+Responsive-WebApp-
 This an easy way to make your page resonpive using a smart shirt steeps.
 
 1-go to head, then add :
